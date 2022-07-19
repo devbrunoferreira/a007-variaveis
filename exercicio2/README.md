@@ -22,7 +22,7 @@ const perguntaA = "Você está usando uma roupa azul hoje?";
 const respostaA = prompt(perguntaA);
 ```
 
-d) Altere seu programa, para que a impressão das respostas também tenha as **perguntas**. Por exemplo:
+d) Altere seu programa, para que a impressão das respostas também tenham as **perguntas**. Por exemplo:
 
 ```
 Você está usando uma roupa azul hoje? - SIM
